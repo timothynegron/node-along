@@ -10,3 +10,4 @@ function getInput() {
 }
 
 module.exports = getInput;
+// .exports means make it available
